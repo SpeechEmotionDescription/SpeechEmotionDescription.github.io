@@ -1,0 +1,180 @@
+file: 1.wav
+result: 惊讶之情
+
+file: 2.wav
+result: 很不屑心烦
+
+file: 3.wav
+result: 心里怒气
+
+file: 4.wav
+result: 很是冷静，不急于表达任何情绪
+
+file: 5.wav
+result: 感到伤心难过，又无能为力。
+
+file: 6.wav
+result: 非常的冷静，令人敬佩。
+
+file: 7.wav
+result: 很生气，有点怒气
+
+file: 8.wav
+result: 很不开心，有点不爽
+
+file: 9.wav
+result: 很生气的责骂
+
+file: 10.wav
+result: 语气平实
+
+file: 11.wav
+result: 惊奇，难以置信
+
+file: 12.wav
+result: 十分好奇
+
+file: 13.wav
+result: 很烦躁，情绪激动
+
+file: 14.wav
+result: 伤心难过，又无能为力。
+
+file: 15.wav
+result: 内心惊喜，欢欣鼓舞，很开心
+
+file: 16.wav
+result: 顶住了悲伤，语气低沉所致。
+
+file: 17.wav
+result: 情绪激动
+
+file: 18.wav
+result: 心酸和悲伤
+
+file: 19.wav
+result: 感到这件事情很激动
+
+file: 20.wav
+result: 感到心满意，意想不到
+
+file: 21.wav
+result: 感到很悲伤，忧伤。
+
+file: 22.wav
+result: 很烦躁，有点不开心
+
+file: 23.wav
+result: 感到不解，无能为力。
+
+file: 24.wav
+result: 语气平静，声音低沉，但说话的口齿清晰，透出惊讶。
+
+file: 25.wav
+result: 自责的陈述
+
+file: 26.wav
+result: 不相信，感到惊讶。
+
+file: 27.wav
+result: 非常敬爱的。
+
+file: 28.wav
+result: 伤心难过
+
+file: 29.wav
+result: 满腔自信
+
+file: 30.wav
+result: 困惑不解，疑惑
+
+file: 31.wav
+result: 难以忍受，悲伤难过
+
+file: 32.wav
+result: 着急激动不已
+
+file: 33.wav
+result: 真诚的问候，语气中带有期待声音
+
+file: 34.wav
+result: 很生气和愤怒
+
+file: 35.wav
+result: 心中不解，语气带有埋怨
+
+file: 36.wav
+result: 心酸难受，伤心难过
+
+file: 37.wav
+result: 很愤怒，又控制不了自己的情绪
+
+file: 38.wav
+result: 对某人或某事不满，气愤。
+
+file: 39.wav
+result: 当着平静的表情，言谈举止平和。
+
+file: 40.wav
+result: 关心某件事
+
+file: 41.wav
+result: 心生不满，恼怒，委屈
+
+file: 42.wav
+result: 不解风情，平静
+
+file: 43.wav
+result: 不爽，毫不留情
+
+file: 44.wav
+result: 很愤怒，还带有一丝嫌弃的味道
+
+file: 45.wav
+result: 感到意外和悲伤，又不能释怀
+
+file: 46.wav
+result: 语调低沉，表达内心不满的心情。
+
+file: 47.wav
+result: 声音低沉，语气中透露着无奈
+
+file: 48.wav
+result: 感到惊奇，感到震惊。
+
+file: 49.wav
+result: 感到难以置信
+
+file: 50.wav
+result: 自以为是真理
+
+file: 51.wav
+result: 很淡定的语气
+
+file: 52.wav
+result: 感到，心里无能为力
+
+file: 53.wav
+result: 气愤之处，语气里充满怒火
+
+file: 54.wav
+result: 这位朋友，非常感谢。
+
+file: 55.wav
+result: 心酸的程度，心里苦楚不开心
+
+file: 56.wav
+result: 愤怒，怒火中烧，极度不爽
+
+file: 57.wav
+result: 语气低沉，声音里透露出缠绵欲哭的情感。
+
+file: 58.wav
+result: 疑惑的很是苦恼。
+
+file: 59.wav
+result: 语气平静，情绪平和但是内心非常难过。
+
+file: 60.wav
+result: 很惊讶，非常的意外,”
+

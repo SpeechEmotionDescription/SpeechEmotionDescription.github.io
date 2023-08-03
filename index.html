@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo 页面</title>
+</head>
+<body>
+    <h1>音频及描述</h1>
+    <div id="audio-container">
+        <!-- 音频和描述将在这里动态生成 -->
+    </div>
+
+    <script>
+        // 从 60.txt 中获取描述文本
+        fetch('60.txt')
+            .then(response => response.text())
+            .then(text => {
+                const lines = text.split('\n').filter(line => line.trim() !== '');
+                const audioContainer = document.getElementById('audio-container');
+
+                // 遍历音频文件和描述
+                for (let i = 0; i < lines.length; i += 2) {
+                    const audioFilename = lines[i].split(':')[1].trim();
+                    const descriptionText = lines[i + 1].split(':')[1].trim();
+
+                    const audio = document.createElement('audio');
+                    audio.src = `wav/${audioFilename}`;
+                    audio.controls = true;
+
+                    const description = document.createElement('p');
+                    description.textContent = descriptionText;
+
+                    const wrapper = document.createElement('div');
+                    wrapper.appendChild(audio);
+                    wrapper.appendChild(description);
+
+                    audioContainer.appendChild(wrapper);
+                }
+            });
+    </script>
+</body>
+</html>
